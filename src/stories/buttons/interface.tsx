@@ -18,6 +18,6 @@ export interface ButtonProps {
 export const ButtonTypeControls = {
   control: {
     type: 'select',
-    options: ['primary', 'link', 'danger', 'success'],
+    options: ['secondary', 'primary', 'link', 'danger', 'success'],
   },
 };

@@ -7,6 +7,6 @@ export const kmcGreenDark = '#219653';
 export const kmcGrayLite = '#E0E0E0';
 export const kmcGrayBase = '#838383';
 export const kmcGrayDark = '#333333';
-export const kmcOrange = '#f99d3a';
+export const kmcOrange = '#0b2535';
 export const kmcYellow = '#f2c94c';
 export const kmcVisitedLinks = '#733d90';

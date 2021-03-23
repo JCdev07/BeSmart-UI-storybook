@@ -30,9 +30,3 @@ export const Filled = Template.bind({});
 Filled.args = {
   type: 'filled',
 };
-
-// SmallRound Button
-export const SmallRound = Template.bind({});
-SmallRound.args = {
-  rounded: 'sm',
-};

@@ -21,6 +21,12 @@ Primary.args = {
   type: 'primary',
 };
 
+// Secondary Button
+export const Secondary = Template.bind({});
+Secondary.args = {
+  type: 'secondary',
+};
+
 // Danger Button
 export const Danger = Template.bind({});
 Danger.args = {
@@ -39,7 +45,7 @@ Link.args = {
   type: 'link',
 };
 
-// Primary Button
+// Disabled Button
 export const Disabled = Template.bind({});
 Disabled.args = {
   disabled: true,

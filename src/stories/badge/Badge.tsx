@@ -54,7 +54,10 @@ const Badge: React.FC<BadgeProps> = ({
   );
 
   return (
-    <p className={`${defaultClassName} text-center inline-block`} style={style}>
+    <p
+      className={`${defaultClassName} text-sm text-center inline-block`}
+      style={style}
+    >
       <span className='leading-3'>{label}</span>
     </p>
   );
